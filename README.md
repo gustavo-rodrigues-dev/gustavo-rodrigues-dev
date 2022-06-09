@@ -71,8 +71,6 @@ I was working with Python to delivery 2 APIs with Flask and to create some autom
 
 [Vamos falar sobre a paralisia da análise e como isso afeta seu negócio](https://gustavosrodrigues.medium.com/vamos-falar-sobre-a-paralisia-da-an%C3%A1lise-e-como-isso-afeta-seu-neg%C3%B3cio-96b17eee9605)
 
----
-
 [Como reduzimos em 2/3 nossos custos apenas mudando nossa estratégia de uso do S3](https://gustavosrodrigues.medium.com/como-reduzimos-em-2-3-nossos-custos-apenas-mudando-nossa-estrat%C3%A9gia-de-uso-do-s3-d67b77a02dbb)
 
 [Uma abordagem financeira para tratar engenharia de software e débito técnico](https://gustavosrodrigues.medium.com/uma-abordagem-financeira-para-tratar-engenharia-de-software-e-d%C3%A9bito-t%C3%A9cnico-2fb16cd3f67c)
