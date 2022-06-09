@@ -31,6 +31,14 @@ In addition to my tech experience, I have a **leadership background as a technic
 
 ---
 
+## 📈 Stats
+
+![gustavobeavis's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavobeavis&show_icons=true&theme=dracula)
+[![gustavobeavis's GitHub contributing](https://github-readme-streak-stats.herokuapp.com/?user=gustavobeavis&show_icons=true&theme=dracula)](https://github-readme-streak-stats.herokuapp.com/?user=gustavobeavis&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 # 🛠 Skills
 
 ## 💻 Technology
@@ -89,14 +97,9 @@ I was working with Python to delivery 2 APIs with Flask and to create some autom
 
 [Processando Uma Pilha De Imagens Sem Traumas](http://gustavobeavis.github.io/blog/2014/04/03/processando-uma-pilha-de-imagens-sem-traumas/)
 
-[Gustavo Rodrigues](http://gustavobeavis.github.io/blog/2014/09/11/web-socket-php/)
+[Websocket com PHP](http://gustavobeavis.github.io/blog/2014/09/11/web-socket-php/)
 
 ---
-## 📈 Stats
-
-![gustavobeavis's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavobeavis&show_icons=true&theme=dracula)
-[![gustavobeavis's GitHub contributing](https://github-readme-streak-stats.herokuapp.com/?user=gustavobeavis&show_icons=true&theme=dracula)](https://github-readme-streak-stats.herokuapp.com/?user=gustavobeavis&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
