@@ -17,9 +17,9 @@ In addition to my tech experience, I have a **leadership background as a technic
 ---
 
 ## ☎️ Contact
-
 <aside>
-📢 📧  Email address: gustavo.s.rodrigues.dev@gmail.com
+  
+📧  Email address: gustavo.s.rodrigues.dev@gmail.com
 
 🐦  Twitter: [https://twitter.com/gustavo_s_r](https://twitter.com/gustavo_s_r)
 
