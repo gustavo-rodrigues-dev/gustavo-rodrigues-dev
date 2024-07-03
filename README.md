@@ -12,7 +12,7 @@ About Databases, I know NoSQL databases like **MongoDB**, **Cassandra**, and **R
 
 I have a strong base in **Event-Driven Architecture**, mainly using **Kafka** and **SNS**. Besides that, I have a long experience with **microservices**, especially for critical mass. I had used stream RPC-based services using **gRPC** for internal services and **REST** and **GraphQL** to resolve integration **gateway** with other clients and services.
 
-In addition to my tech experience, I have a **leadership background as a technical leader** and **engineering manager**. My main role was to develop a **solid and anti-fragile technical team** with agile values and strong knowledge culture.
+In addition to my tech experience, I have a **leadership background as a technical leader** and **engineering manager**. My main role was to develop a **solid and anti-fragile technical team** with agile values and strong knowledge culture. 
 
 ---
 
@@ -21,31 +21,19 @@ In addition to my tech experience, I have a **leadership background as a technic
   
 📧  Email address: gustavo.s.rodrigues.dev@gmail.com
 
-🐦  Twitter: [https://twitter.com/gustavo_s_r](https://twitter.com/gustavo_s_r)
-
 🔗  Linkedin: [https://www.linkedin.com/in/gustavosilvarodrigues](https://www.linkedin.com/in/gustavosilvarodrigues)
 
-🐱  Github: [https://github.com/gustavobeavis/](https://github.com/gustavobeavis/)
+🐱  Github: [https://github.com/gustavo-rodrigues-dev/](https://github.com/gustavo-rodrigues-dev/)
 
 </aside>
 
----
-
-## 📈 Stats
-
-![gustavobeavis's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavobeavis&show_icons=true&theme=dracula)
-[![gustavobeavis's GitHub contributing](https://github-readme-streak-stats.herokuapp.com/?user=gustavobeavis&show_icons=true&theme=dracula)](https://github-readme-streak-stats.herokuapp.com/?user=gustavobeavis&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 # 🛠 Skills
 
+## 🏆 Certifications
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a69a0abe-1c5e-4735-a91f-d5290ecf7c5b/public_url)
+
 ## 💻 Technology
-
-### Node: Javascript/Typescript ⭐️⭐️⭐️⭐️⭐️
-
-My "native" programming language, I've worked with it for over 10 years. I've used it in the back-end for APIs with Node (since 0.12 until 16), Express, Apolo GraphQL, Nest JS, Inversify JS, Loopback, gRPC-js, Socket.IO, TypeORM, Sequelize, Prisma, Mongose, and for testing automation using Mocha and later on, Jest.
 
 ### AWS ⭐️⭐️⭐️⭐️⭐️
 
@@ -61,17 +49,17 @@ I Have experience with CloudWatch for troubleshooting, like making custom querie
 
 Since the end of last year, I have been studying the AWS CDK to reduce the boundary between the development team and the Ops team.
 
-### Javascript/Typescript ⭐️⭐️⭐️⭐️
+### Javascript/Typescript/Node ⭐️⭐️⭐️⭐️⭐️
 
-Javascript is my primary programming language, I started using it 12 years ago, and I created a lot of websites and systems using SOLID principles that I already used React and React-Native to provide systems with reusable components with Redux, Context-API, and Styled components, Angular to create some administration panels, Backbone and jQuery long before there were other solutions.
+My "native" programming language, I've worked with it for over 10 years. I've used it in the back-end for APIs with Node (since 0.12 until 16), Express, Apolo GraphQL, Nest JS, Inversify JS, Loopback, gRPC-js, Socket.IO, TypeORM, Sequelize, Prisma, Mongose, and for testing automation using Mocha and later on, Jest.
+
+### Python ⭐️⭐️⭐️⭐️
+
+I possess extensive experience in developing APIs and automating tasks using Python, including proficiency with Flask for web development and Boto3 for AWS services interaction, among other libraries and tools.
 
 ### PHP ⭐️⭐️⭐️⭐️
 
 It was my first programming language that I've worked with, and I made projects with it for over 7 years. I've used it in many solutions for websites and systems, and I've used Laravel, Symfony, Cake PHP, and Diesel as Fullstack frameworks and Slim and Silex as microframeworks. I used too Doctrine 2 and Active Record as ORM and Ratchet to resolve Web Sockets. Furthermore, I used Drupal and WordPress as CMS, and I have also done a CMS for small businesses.
-
-### Python ⭐️⭐️⭐️
-
-I was working with Python to delivery 2 APIs with Flask and to create some automations to pack applications or process data to fix or migrate data structure.
 
 ---
 
@@ -101,5 +89,10 @@ I was working with Python to delivery 2 APIs with Flask and to create some autom
 
 ---
 
+## 📈 Stats
 
+![gustavobeavis's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-rodrigues-dev&show_icons=true&theme=dracula)
+[![gustavobeavis's GitHub contributing](https://github-readme-streak-stats.herokuapp.com/?user=gustavo-rodrigues-dev&show_icons=true&theme=dracula)](https://github-readme-streak-stats.herokuapp.com/?user=gustavo-rodrigues-dev&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rodrigues-dev&layout=compact&show_icons=true&theme=dracula)](https://github.com/gustavo-rodrigues-dev/github-readme-stats)
 
+---
