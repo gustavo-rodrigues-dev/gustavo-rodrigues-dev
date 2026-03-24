@@ -1,98 +1,119 @@
 # Resume
-*Tech Leader, Solutions Architect, Software Engineering*
+**VP of Engineering | CTO | Technology Executive | Cloud, AI, Platform, and Consulting Leadership**
 
-> I'm Gustavo, I work with technology since 2010. I have worked in many positions throughout my career, especially as a solution architect and software engineer.
-> 
+I am a technology executive with hands-on depth in cloud architecture, AI-enabled platforms, software engineering, and organizational leadership. I work across consulting, startup, and product environments, helping companies modernize platforms, scale engineering teams, improve delivery performance, and align technical execution with business goals.
 
-I've had great experiences with **AWS**, like Lambda, DynamoDB, SQS, SNQ, ECS, ECS, RDS, S3, Athena, Kinesis, and other technologies. I worked with **Google Cloud** too, but for no long time, where I was used GKE, AppEngine, Google Store, and Data Store.
+My recent work has been centered on AWS-based cloud solutions, platform modernization, distributed systems, data and integration architectures, and AI-oriented products. I operate at the intersection of executive leadership and technical strategy, supporting decisions on architecture, delivery, team structure, cost, reliability, and quality.
 
-My principal languages are **Javascript** and **Typescript**, where I worked on many projects, mainly using **Node** with Express, NestJs, socket.io, gRPC, and other technologies. Besides that, I've experienced with **PHP**, **Go**, and **Python**.
+I have led engineering teams through significant challenges including pandemic-driven cost optimization, large-scale cloud migrations for globally regulated companies, platform modernization for enterprise clients, and AI adoption initiatives.
 
-About Databases, I know NoSQL databases like **MongoDB**, **Cassandra**, and **Redis** as a key-value DB. But I've experience with SQL too, especially **MySQL** (Maria DB, Aurora), but I used **Postgres** and **SQL Server**, and **Oracle 12g** too.
+## Executive Focus
 
-I have a strong base in **Event-Driven Architecture**, mainly using **Kafka** and **SNS**. Besides that, I have a long experience with **microservices**, especially for critical mass. I had used stream RPC-based services using **gRPC** for internal services and **REST** and **GraphQL** to resolve integration **gateway** with other clients and services.
+- VP Engineering, CTO, and Head of IT positioning
+- Technology strategy and architecture leadership
+- Consulting and advisory for cloud modernization and engineering transformation
+- Fractional CTO and executive advisory positioning
+- Engineering delivery, operating models, and organizational scaling
+- AI adoption with practical business value
+- Cost optimization, reliability, and quality balance
 
-In addition to my tech experience, I have a **leadership background as a technical leader** and **engineering manager**. My main role was to develop a **solid and anti-fragile technical team** with agile values and strong knowledge culture. 
+## What I Lead
 
----
+- Distributed engineering teams across startup and consulting contexts
+- Cloud and platform modernization initiatives on AWS
+- Engineering maturity improvements through process, quality, and delivery discipline
+- AI and conversational platform initiatives
+- Generative AI and LLM-oriented solution exploration
+- Architecture decisions for scalable, secure, and resilient systems
+- OKRs, 1:1s, cross-functional alignment, and execution governance
+- Mixed workforce models including full-time employees, contractors, and temporary professionals
 
-## ☎️ Contact
-<aside>
-  
-📧  Email address: gustavo.s.rodrigues.dev@gmail.com
+## Core Areas
 
-🔗  Linkedin: [https://www.linkedin.com/in/gustavosilvarodrigues](https://www.linkedin.com/in/gustavosilvarodrigues)
+### Leadership
 
-🐱  Github: [https://github.com/gustavo-rodrigues-dev/](https://github.com/gustavo-rodrigues-dev/)
+- Engineering leadership
+- Technology strategy
+- Organizational design
+- Delivery governance
+- Remote team leadership
+- Coaching and talent development
 
-</aside>
+### Cloud and Platform
 
-# 🛠 Skills
+- AWS
+- Terraform and Terragrunt
+- AWS CDK
+- Kubernetes
+- Serverless architectures
+- Event-driven systems
+- Microservices
+- Observability and reliability
+- Security-minded platform design
 
-## 🏆 Certifications
+### AI and Engineering
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a69a0abe-1c5e-4735-a91f-d5290ecf7c5b/public_url)
+- AI-enabled platforms
+- Large Language Models (LLM)
+- LLM integrations
+- RAG and orchestration workflows
+- Node.js / TypeScript
+- Python
+- PHP
+- Go
+- REST, GraphQL, gRPC, and WebSockets
 
-## 💻 Technology
+## Selected Experience Highlights
 
-### AWS ⭐️⭐️⭐️⭐️⭐️
+### Recent Leadership and Consulting
 
-I have been working intensively for the last 5 years with projects that use AWS. I have been working mainly in the creation of consistent architectures following well-Architecture principles.
+- **VP of Engineering at Elevata** - Leading cloud-native and AI-oriented delivery for consulting clients
+- **CTO & Founder at BWWorks** - Technology consulting and advisory for cloud and engineering transformation
+- **Senior Solutions Architect at OpsGuru** - Led consulting for Flutter Entertainment (PokerStars, FanDuel, Betfair, Paddy Power), supporting one of the largest cloud migrations in Canada with complex multi-jurisdiction compliance requirements
 
-Within AWS, I have worked directly with EC2, ECS, and Lambda computing products, where I had the opportunity to create projects, implement monitoring and observability.
+### Platform and Architecture Leadership
 
-As for storage and database services, I have already used RDS as a consumer, but not for cluster administration; in addition, I have already worked with products such as Redis for Elastic Cache and OpenSearch for Elastic Cache, and I have also massively used S3, included as a Key-Value database, and in some analyzes with Athena.
+- **MaxMilhas** - Led engineering through pandemic, drove 30% cost reduction, migrated to EKS, restructured search engine into microservices, managed tribe-level API teams for air content and checkout
+- **e-Deploy** - Led Natura engagement (1.6M+ consultants), modernized sales engagement platform, increased company revenue through delivery results, worked as pre-sales architect
+- **AWS multi-account infrastructure** and reusable Terraform module strategies
+- **AI platforms** with multi-service architectures, LLM integrations, and orchestration layers
+- **Data lake solutions** using AWS managed services, event streams, ETL, and analytics
+- **Platform modernization**, security hardening, and cost optimization initiatives
 
-As for queue, stream, and messaging services, I have already worked with SQS and SNS products, but I have also worked with an MSK cluster (Kafka) and Kinesis for data stream. I used some of these products directly to provide integrations with other internal services to reduce coupling, whether to attend BI area and process to creating data lake or for create message architecture.
+## Writing and Knowledge Sharing
 
-I Have experience with CloudWatch for troubleshooting, like making custom queries to observe correlations with some indicators and making some alarms.
+I write about architecture, engineering, delivery, and business impact on [Medium](https://medium.com/@gustavosrodrigues).
 
-Since the end of last year, I have been studying the AWS CDK to reduce the boundary between the development team and the Ops team.
+Selected articles:
 
-### Javascript/Typescript/Node ⭐️⭐️⭐️⭐️⭐️
+- [Como reduzimos em 2/3 nossos custos apenas mudando nossa estratégia de uso do S3](https://gustavosrodrigues.medium.com/como-reduzimos-em-2-3-nossos-custos-apenas-mudando-nossa-estrat%C3%A9gia-de-uso-do-s3-d67b77a02dbb) - Cloud cost optimization at MaxMilhas
+- [Uma abordagem financeira para tratar engenharia de software e débito técnico](https://gustavosrodrigues.medium.com/uma-abordagem-financeira-para-tratar-engenharia-de-software-e-d%C3%A9bito-t%C3%A9cnico-2fb16cd3f67c) - Technical debt through a business lens
+- [Vamos falar sobre cultura de qualidade de software e Code Review?](https://gustavosrodrigues.medium.com/vamos-falar-sobre-cultura-de-qualidade-de-software-e-code-review-22a9449d5b7d) - Code review and quality culture
+- [Vamos falar sobre arquitetura ágil](https://gustavosrodrigues.medium.com/vamos-falar-sobre-arquitetura-%C3%A1gil-956b52f9b30f) - Agile architecture
+- [Como fiz para corrigir dados na casa dos 20000k de forma assíncrona com JS](https://gustavosrodrigues.medium.com/como-fiz-para-corrigir-dados-na-casa-dos-20000k-de-forma-ass%C3%ADncrona-com-js-f9cf567c9ea9) - Large-scale asynchronous processing
 
-My "native" programming language, I've worked with it for over 10 years. I've used it in the back-end for APIs with Node (since 0.12 until 16), Express, Apolo GraphQL, Nest JS, Inversify JS, Loopback, gRPC-js, Socket.IO, TypeORM, Sequelize, Prisma, Mongose, and for testing automation using Mocha and later on, Jest.
+## Technologies
 
-### Python ⭐️⭐️⭐️⭐️
+**Cloud and Platform:** AWS, AWS CDK, Kubernetes, Terraform, Terragrunt, ECS, Lambda, S3, RDS, DynamoDB, Athena, Kinesis, SQS, SNS, MSK, Glue, Lake Formation  
+**Languages:** TypeScript, JavaScript, Python, PHP, Go  
+**Architecture:** Event-driven systems, microservices, APIs, distributed systems, streaming, and data platforms  
+**Integration:** REST, GraphQL, gRPC, WebSockets  
+**Data:** MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Redis, Cassandra
 
-I possess extensive experience in developing APIs and automating tasks using Python, including proficiency with Flask for web development and Boto3 for AWS services interaction, among other libraries and tools.
+## Key Engagements and Impact
 
-### PHP ⭐️⭐️⭐️⭐️
+- **Flutter Entertainment** - Led cloud migration consulting for the world's largest online betting and gaming company (PokerStars, FanDuel, Betfair, Paddy Power), one of the largest cloud transformation initiatives in Canada
+- **MaxMilhas** - Led platform through pandemic, achieved 30% cost reduction, migrated to EKS, restructured search engine, managed tribe-level teams
+- **Natura** - Modernized consultant engagement platform for 1.6M+ beauty consultants, increased consulting firm revenue through delivery results
+- **Elevata** - Leading engineering strategy and delivery for cloud-native and AI initiatives
+- **BWWorks** - Founded technology consulting business focused on cloud, architecture, and engineering advisory
 
-It was my first programming language that I've worked with, and I made projects with it for over 7 years. I've used it in many solutions for websites and systems, and I've used Laravel, Symfony, Cake PHP, and Diesel as Fullstack frameworks and Slim and Silex as microframeworks. I used too Doctrine 2 and Active Record as ORM and Ratchet to resolve Web Sockets. Furthermore, I used Drupal and WordPress as CMS, and I have also done a CMS for small businesses.
+## Positioning Statement
 
----
+Technology executive with strong architecture depth and consulting experience, focused on building scalable platforms, strengthening engineering organizations, and aligning delivery with business growth, quality, reliability, and cost efficiency.
 
-# 📜 Articles and Talks
+## Contact
 
-[Vamos falar sobre a paralisia da análise e como isso afeta seu negócio](https://gustavosrodrigues.medium.com/vamos-falar-sobre-a-paralisia-da-an%C3%A1lise-e-como-isso-afeta-seu-neg%C3%B3cio-96b17eee9605)
-
-[Como reduzimos em 2/3 nossos custos apenas mudando nossa estratégia de uso do S3](https://gustavosrodrigues.medium.com/como-reduzimos-em-2-3-nossos-custos-apenas-mudando-nossa-estrat%C3%A9gia-de-uso-do-s3-d67b77a02dbb)
-
-[Uma abordagem financeira para tratar engenharia de software e débito técnico](https://gustavosrodrigues.medium.com/uma-abordagem-financeira-para-tratar-engenharia-de-software-e-d%C3%A9bito-t%C3%A9cnico-2fb16cd3f67c)
-
-[Vamos falar sobre cultura de qualidade de software e Code Review?](https://gustavosrodrigues.medium.com/vamos-falar-sobre-cultura-de-qualidade-de-software-e-code-review-22a9449d5b7d)
-
-[Vamos falar sobre arquitetura ágil](https://gustavosrodrigues.medium.com/vamos-falar-sobre-arquitetura-%C3%A1gil-956b52f9b30f)
-
-[Gustavo D. on LinkedIn: Teste de API gRPC + Node](https://www.linkedin.com/posts/gustavosilvarodrigues_teste-de-api-grpc-node-activity-6558138674435895296-AstI?utm_source=linkedin_share&utm_medium=member_desktop_web)
-
-[Porquê a MaxMilhas utiliza gRPC](https://www.linkedin.com/pulse/porqu%C3%AA-maxmilhas-utiliza-grpc-gustavo-da-silva-rodrigues/)
-
-[Como fiz para corrigir dados na casa dos 20000k de forma assíncrona com JS](https://gustavosrodrigues.medium.com/como-fiz-para-corrigir-dados-na-casa-dos-20000k-de-forma-ass%C3%ADncrona-com-js-f9cf567c9ea9)
-
-[React e React Native no Mercado | We Speak Software #001](https://www.youtube.com/watch?v=x4WXjVnREL8)
-
-[Processando Uma Pilha De Imagens Sem Traumas](http://gustavobeavis.github.io/blog/2014/04/03/processando-uma-pilha-de-imagens-sem-traumas/)
-
-[Websocket com PHP](http://gustavobeavis.github.io/blog/2014/09/11/web-socket-php/)
-
----
-
-## 📈 Stats
-
-![gustavobeavis's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-rodrigues-dev&show_icons=true&theme=dracula)
-[![gustavobeavis's GitHub contributing](https://github-readme-streak-stats.herokuapp.com/?user=gustavo-rodrigues-dev&show_icons=true&theme=dracula)](https://github-readme-streak-stats.herokuapp.com/?user=gustavo-rodrigues-dev&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-rodrigues-dev&layout=compact&show_icons=true&theme=dracula)](https://github.com/gustavo-rodrigues-dev/github-readme-stats)
-
----
+- LinkedIn: <https://www.linkedin.com/in/gustavosilvarodrigues/>
+- Medium: <https://medium.com/@gustavosrodrigues>
+- GitHub: <https://github.com/gustavo-rodrigues-dev>
