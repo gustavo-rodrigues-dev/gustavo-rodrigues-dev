@@ -1,119 +1,72 @@
-# Resume
-**VP of Engineering | CTO | Technology Executive | Cloud, AI, Platform, and Consulting Leadership**
+# Hey, I'm Gustavo 👋
 
-I am a technology executive with hands-on depth in cloud architecture, AI-enabled platforms, software engineering, and organizational leadership. I work across consulting, startup, and product environments, helping companies modernize platforms, scale engineering teams, improve delivery performance, and align technical execution with business goals.
+VP of Engineering / CTO-minded technologist. I build cloud platforms and engineering teams using the same principle: **structure beats heroics**.
 
-My recent work has been centered on AWS-based cloud solutions, platform modernization, distributed systems, data and integration architectures, and AI-oriented products. I operate at the intersection of executive leadership and technical strategy, supporting decisions on architecture, delivery, team structure, cost, reliability, and quality.
+I don't chase disruption — I believe it's what consistent, incremental work produces over time. Most of what's below is proof of that, not a pitch for it.
 
-I have led engineering teams through significant challenges including pandemic-driven cost optimization, large-scale cloud migrations for globally regulated companies, platform modernization for enterprise clients, and AI adoption initiatives.
+---
 
-## Executive Focus
+## What I actually do
 
-- VP Engineering, CTO, and Head of IT positioning
-- Technology strategy and architecture leadership
-- Consulting and advisory for cloud modernization and engineering transformation
-- Fractional CTO and executive advisory positioning
-- Engineering delivery, operating models, and organizational scaling
-- AI adoption with practical business value
-- Cost optimization, reliability, and quality balance
+I architect cloud systems (mostly AWS) and lead the engineers who run them. In practice, that means:
 
-## What I Lead
+- Turning legacy monoliths into resilient microservices — in stages, not big-bang rewrites
+- Building delivery processes that don't depend on a few "hero" engineers to work
+- Translating between executives, product, and engineering without losing precision on either side
+- Helping teams adopt AI and GenAI where it actually moves the business needle, not where it sounds good in a deck
 
-- Distributed engineering teams across startup and consulting contexts
-- Cloud and platform modernization initiatives on AWS
-- Engineering maturity improvements through process, quality, and delivery discipline
-- AI and conversational platform initiatives
-- Generative AI and LLM-oriented solution exploration
-- Architecture decisions for scalable, secure, and resilient systems
-- OKRs, 1:1s, cross-functional alignment, and execution governance
-- Mixed workforce models including full-time employees, contractors, and temporary professionals
+I've done this in startups, regulated industries (gaming, finance), and large-scale consulting engagements — including one of the biggest cloud migrations in Canada, for a company operating across multiple legal jurisdictions.
 
-## Core Areas
+---
 
-### Leadership
+## How I lead
 
-- Engineering leadership
-- Technology strategy
-- Organizational design
-- Delivery governance
-- Remote team leadership
-- Coaching and talent development
+I ask more questions than I give orders. In a formal leadership-style assessment, my top style was **Coaching**, followed by **Visionary** — pace-setting and command-and-control came in dead last, and that's by design.
 
-### Cloud and Platform
+A few things I actually believe, not just say:
 
-- AWS
-- Terraform and Terragrunt
-- AWS CDK
-- Kubernetes
-- Serverless architectures
-- Event-driven systems
-- Microservices
-- Observability and reliability
-- Security-minded platform design
+- **Culture > Process > Tools.** Get the culture wrong and nothing else holds.
+- **No delivery without a metric.** If I can't measure it, I don't know if it worked.
+- **Peer review beats individual brilliance.** More than one mind thinking always wins.
+- **Anti-fragile teams admit their weak spots** instead of hiding them — that's where the real improvement happens.
 
-### AI and Engineering
+I'm not trying to be a "guru" of anything. I'd rather be useful than quotable.
 
-- AI-enabled platforms
-- Large Language Models (LLM)
-- LLM integrations
-- RAG and orchestration workflows
-- Node.js / TypeScript
-- Python
-- PHP
-- Go
-- REST, GraphQL, gRPC, and WebSockets
+---
 
-## Selected Experience Highlights
+## Currently
 
-### Recent Leadership and Consulting
+- 🔭 Leading engineering & delivery at **Elevata** — cloud-native and AI-oriented consulting
+- 🧠 Studying Rust and advanced Kubernetes, daily, because skill stagnation is the actual risk in this field
+- 🗣️ Occasionally writing on [Medium](https://medium.com/@gustavosrodrigues) — usually because something at work made me think, not because I scheduled a post
 
-- **VP of Engineering at Elevata** - Leading cloud-native and AI-oriented delivery for consulting clients
-- **CTO & Founder at BWWorks** - Technology consulting and advisory for cloud and engineering transformation
-- **Senior Solutions Architect at OpsGuru** - Led consulting for Flutter Entertainment (PokerStars, FanDuel, Betfair, Paddy Power), supporting one of the largest cloud migrations in Canada with complex multi-jurisdiction compliance requirements
+---
 
-### Platform and Architecture Leadership
+## Stack I actually use
 
-- **MaxMilhas** - Led engineering through pandemic, drove 30% cost reduction, migrated to EKS, restructured search engine into microservices, managed tribe-level API teams for air content and checkout
-- **e-Deploy** - Led Natura engagement (1.6M+ consultants), modernized sales engagement platform, increased company revenue through delivery results, worked as pre-sales architect
-- **AWS multi-account infrastructure** and reusable Terraform module strategies
-- **AI platforms** with multi-service architectures, LLM integrations, and orchestration layers
-- **Data lake solutions** using AWS managed services, event streams, ETL, and analytics
-- **Platform modernization**, security hardening, and cost optimization initiatives
+**Cloud / Infra:** AWS (Lambda, ECS/EKS, DynamoDB, RDS, SQS/SNS, Bedrock) · Terraform · Terragrunt · AWS CDK · Kubernetes
+**Backend:** Node.js / TypeScript (NestJS, Express) · Python · Go · PHP
+**Data:** PostgreSQL · MySQL · MongoDB · Cassandra · Elasticsearch/OpenSearch · Kafka (MSK)
+**AI:** RAG pipelines · Knowledge Bases · MCP servers · LLM integrations
+**Frontend (when needed):** React · React Native
 
-## Writing and Knowledge Sharing
+---
 
-I write about architecture, engineering, delivery, and business impact on [Medium](https://medium.com/@gustavosrodrigues).
+## Some things I've written
 
-Selected articles:
+If you want the long version of how I think, these are closer to it than any bullet list:
 
-- [Como reduzimos em 2/3 nossos custos apenas mudando nossa estratégia de uso do S3](https://gustavosrodrigues.medium.com/como-reduzimos-em-2-3-nossos-custos-apenas-mudando-nossa-estrat%C3%A9gia-de-uso-do-s3-d67b77a02dbb) - Cloud cost optimization at MaxMilhas
-- [Uma abordagem financeira para tratar engenharia de software e débito técnico](https://gustavosrodrigues.medium.com/uma-abordagem-financeira-para-tratar-engenharia-de-software-e-d%C3%A9bito-t%C3%A9cnico-2fb16cd3f67c) - Technical debt through a business lens
-- [Vamos falar sobre cultura de qualidade de software e Code Review?](https://gustavosrodrigues.medium.com/vamos-falar-sobre-cultura-de-qualidade-de-software-e-code-review-22a9449d5b7d) - Code review and quality culture
-- [Vamos falar sobre arquitetura ágil](https://gustavosrodrigues.medium.com/vamos-falar-sobre-arquitetura-%C3%A1gil-956b52f9b30f) - Agile architecture
-- [Como fiz para corrigir dados na casa dos 20000k de forma assíncrona com JS](https://gustavosrodrigues.medium.com/como-fiz-para-corrigir-dados-na-casa-dos-20000k-de-forma-ass%C3%ADncrona-com-js-f9cf567c9ea9) - Large-scale asynchronous processing
+- [Como reduzimos em 2/3 nossos custos apenas mudando nossa estratégia de uso do S3](https://gustavosrodrigues.medium.com/como-reduzimos-em-2-3-nossos-custos-apenas-mudando-nossa-estrat%C3%A9gia-de-uso-do-s3-d67b77a02dbb)
+- [Uma abordagem financeira para tratar engenharia de software e débito técnico](https://gustavosrodrigues.medium.com/uma-abordagem-financeira-para-tratar-engenharia-de-software-e-d%C3%A9bito-t%C3%A9cnico-2fb16cd3f67c)
+- [Vamos falar sobre cultura de qualidade de software e Code Review?](https://gustavosrodrigues.medium.com/vamos-falar-sobre-cultura-de-qualidade-de-software-e-code-review-22a9449d5b7d)
+- [Vamos falar sobre arquitetura ágil](https://gustavosrodrigues.medium.com/vamos-falar-sobre-arquitetura-%C3%A1gil-956b52f9b30f)
+- [Como fiz para corrigir dados na casa dos 20000k de forma assíncrona com JS](https://gustavosrodrigues.medium.com/como-fiz-para-corrigir-dados-na-casa-dos-20000k-de-forma-ass%C3%ADncrona-com-js-f9cf567c9ea9)
 
-## Technologies
+---
 
-**Cloud and Platform:** AWS, AWS CDK, Kubernetes, Terraform, Terragrunt, ECS, Lambda, S3, RDS, DynamoDB, Athena, Kinesis, SQS, SNS, MSK, Glue, Lake Formation  
-**Languages:** TypeScript, JavaScript, Python, PHP, Go  
-**Architecture:** Event-driven systems, microservices, APIs, distributed systems, streaming, and data platforms  
-**Integration:** REST, GraphQL, gRPC, WebSockets  
-**Data:** MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Redis, Cassandra
+## Reach me
 
-## Key Engagements and Impact
+- [LinkedIn](https://www.linkedin.com/in/gustavosilvarodrigues/)
+- [Medium](https://medium.com/@gustavosrodrigues)
 
-- **Flutter Entertainment** - Led cloud migration consulting for the world's largest online betting and gaming company (PokerStars, FanDuel, Betfair, Paddy Power), one of the largest cloud transformation initiatives in Canada
-- **MaxMilhas** - Led platform through pandemic, achieved 30% cost reduction, migrated to EKS, restructured search engine, managed tribe-level teams
-- **Natura** - Modernized consultant engagement platform for 1.6M+ beauty consultants, increased consulting firm revenue through delivery results
-- **Elevata** - Leading engineering strategy and delivery for cloud-native and AI initiatives
-- **BWWorks** - Founded technology consulting business focused on cloud, architecture, and engineering advisory
-
-## Positioning Statement
-
-Technology executive with strong architecture depth and consulting experience, focused on building scalable platforms, strengthening engineering organizations, and aligning delivery with business growth, quality, reliability, and cost efficiency.
-
-## Contact
-
-- LinkedIn: <https://www.linkedin.com/in/gustavosilvarodrigues/>
-- Medium: <https://medium.com/@gustavosrodrigues>
-- GitHub: <https://github.com/gustavo-rodrigues-dev>
+If you're here for the resume version, that lives on LinkedIn. This page is closer to how I actually think.
