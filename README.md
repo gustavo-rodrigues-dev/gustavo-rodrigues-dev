@@ -36,7 +36,7 @@ I'm not trying to be a "guru" of anything. I'd rather be useful than quotable.
 
 ## Currently
 
-- 🔭 Leading engineering & delivery at **Elevata** — cloud-native and AI-oriented consulting
+- 🔭 Leading engineering & delivery — cloud-native and AI-oriented consulting
 - 🧠 Studying Rust and advanced Kubernetes, daily, because skill stagnation is the actual risk in this field
 - 🗣️ Occasionally writing on [Medium](https://medium.com/@gustavosrodrigues) — usually because something at work made me think, not because I scheduled a post
 
